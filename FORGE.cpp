@@ -1,5 +1,7 @@
-#include<stdio.h>
+#include<iostream>
+
+using namespace std;
 int main()
 {
-  printf("fucking did it \n");
+  cout<<"print"<<endl;
 }
